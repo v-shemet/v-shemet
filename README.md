@@ -1,4 +1,7 @@
-# Hey, I'm Vladimir 👋
-Nice to meet you!
+👨🏻‍💻
 
-[![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/v-shemet)
+Hey, I'm Vladimir 👋
+
+I'm an iOS developer.
+
+[@v-shemet on LinkedIn &rarr;](https://linkedin.com/in/v-shemet)
